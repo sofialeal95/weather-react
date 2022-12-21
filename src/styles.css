@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.search-results {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
